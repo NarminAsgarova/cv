@@ -1,0 +1,48 @@
+body {
+  color: #3E3D40;
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+}
+h6 {
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+p {
+  font-size: 0.7rem;
+}
+.brand-heading {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3.5rem;
+}
+.navbar {
+  padding: 20px 90px 20px 70px;
+}
+.nav-item {
+  margin: 0 10px;
+}
+footer {
+  text-align: center;
+  padding: 350px 50px 20px 100px;
+}
+.footer-icon {
+  color: #e18d84;
+  float: left;
+  padding-right: 15px;
+}
+.footer-icon:hover {
+  color: #B9B8BF;
+}
+.ending {
+  text-align: left;
+  padding: 20px 0;
+}
+.copyright {
+  padding-top: 10px;
+}
+.social-icon {
+  color: #3E3D40;
+  padding-right: 15px;
+}
+.social-icon:hover {
+  color: #e18d84;
+}
